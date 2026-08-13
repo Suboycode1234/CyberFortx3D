@@ -39,4 +39,13 @@ Here is a look at our current development roadmap as we transition from a solo e
 To play the standalone exported build:
 1. Download the files to your PC.
 2. Navigate to the main directory.
-3. Double-click `<span style="color: #39FF14">My project.exe</span>` to launch the game. 
+3. Double-click `<span style="color: #39FF14">My project.exe</span>` to launch the game.
+
+4. ### BRANCHES
+
+## SinglePlayer:
+## The branch for Devs to mess with or play the code with bots alone
+
+## MultiPlayer
+
+## The yet to Release update for the complete multiplayer release

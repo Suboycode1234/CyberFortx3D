@@ -4,7 +4,7 @@
   <p>
     <img src="https://img.shields.io/badge/Engine-Unity%202022.3-lightgrey" alt="Unity">
     <img src="https://img.shields.io/badge/Networking-Photon%20PUN%202-blue" alt="Photon">
-    <img src="https://img.shields.io/badge/Platform-Windows-blueviolet" alt="Windows">
+    <img src="https://img.shields.io/badge/Platform-Windows-blueviolet" alt="Windows (Expansion to Mac and Linux in short term future)">
   </p>
 </div>
 
